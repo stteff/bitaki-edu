@@ -27,7 +27,12 @@
 
 ## Χρήσιμοι σύνδεσμοι
 
-* Το επίσημο προγραμματιστικό περιβάλλον `makecode` της Microsoft https://makecode.microbit.org/ 
+* Προγραμματισστικά Περιβάλλοντα:
+  * https://makecode.microbit.org/ (Το επίσημο περιβάλλον `makecode` της Microsoft)
+  * https://python.microbit.org/v/1.1 (Python online)
+  * https://bbcmicrobitmicropython.readthedocs.io/en/latest/ (MicroPython)
+  * https://lab.open-roberta.org/ (πολύ καλό online περιβάλλον οπτικού προγραμματισμού) 
+
 * Το Υλικό του micro:bit https://tech.microbit.org/hardware/
 * Ξεκινώντας με το micro:bit https://microbit.org/guide/
 * Εκπαιδευτικοί Πόροι https://microbit.org/teach/

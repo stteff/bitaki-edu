@@ -8,13 +8,9 @@
 Περιλαμβάνει Δραστηριότητες *Physical Computing* στο περιβάλλον `makecode` της Microsoft σε μορφή φύλλων εργασίας, καθώς και τα αντίστοιχα προγράμματα.  
 
 * LED DISPLAY & ΒΑΣΙΚΟΙ ΑΙΣΘΗΤΗΡΕΣ (button, acceleration)
-
 * LED DISPLAY & ΒΑΣΙΚΟΙ ΑΙΣΘΗΤΗΡΕΣ (compass, light level, rotation)
-
 * FLASHING LED κύκλωμα
-
 * ΕΛΕΓΧΟΣ ΦΩΤΕΙΝΟΤΗΤΑΣ κυκλώματος LED
-
 * Κύκλωμα LED BUZZER
 
 * ΕΠΙΚΟΙΝΩΝΙΑ ΜΕΤΑΞΥ micro:bit ΜΕΣΩ ΣΗΜΑΤΩΝ radio (Αποστολέας)

@@ -35,7 +35,7 @@
   * https://microbit.org/ideas/  --> select {MakeCode}
   * https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit
   * http://osoyoo.com/category/microbit
-  * http://www.teachwithict.com/physical-computing.htm
+  * http://www.teachwithict.com/physical-computing.html
   * https://microbit.hackster.io/
   * https://codeclubprojects.org/en-GB/resources/#microbit
 

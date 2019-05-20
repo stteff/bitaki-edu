@@ -24,7 +24,9 @@
   * https://python.microbit.org/v/1.1 (Python online)
   * https://bbcmicrobitmicropython.readthedocs.io/en/latest/ (MicroPython)
   * https://lab.open-roberta.org/ (online περιβάλλον οπτικού προγραμματισμού για 10 ήδη ρομπότ)
-* Το Υλικό του micro:bit https://tech.microbit.org/hardware/
+* micro:bit Hardware
+  * https://microbit.org/guide/features/
+  * https://tech.microbit.org/hardware/
 * Ξεκινώντας με το micro:bit https://microbit.org/guide/
 * Εκπαιδευτικοί Πόροι https://microbit.org/teach/
 * Ιδέες για χρήσεις του micro:bit από μαθητές και όχι μόνο:

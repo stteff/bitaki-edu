@@ -26,6 +26,7 @@
   * https://lab.open-roberta.org/ (online περιβάλλον οπτικού προγραμματισμού για 10 ήδη ρομπότ)
 * micro:bit Hardware
   * https://microbit.org/guide/features/
+  * https://microbit.org/guide/hardware/pins/
   * https://tech.microbit.org/hardware/
 * Ξεκινώντας με το micro:bit https://microbit.org/guide/
 * Εκπαιδευτικοί Πόροι https://microbit.org/teach/

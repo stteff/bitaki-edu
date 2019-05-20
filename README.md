@@ -5,7 +5,7 @@
 
 ---
 
-Περιλαμβάνει Δραστηριότητες *Physical Computing* στο περιβάλλον `makecode` της Microsoft σε μορφή φύλλων εργασίας, καθώς και τα αντίστοιχα προγράμματα.  
+Περιλαμβάνει Δραστηριότητες *Physical Computing* στο περιβάλλον `makecode` της Microsoft, σε μορφή φύλλων εργασίας, καθώς και αντίστοιχα προγράμματα.  
 
 * LED DISPLAY & ΒΑΣΙΚΟΙ ΑΙΣΘΗΤΗΡΕΣ (button, acceleration)
 * LED DISPLAY & ΒΑΣΙΚΟΙ ΑΙΣΘΗΤΗΡΕΣ (compass, light level, rotation)

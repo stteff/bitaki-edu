@@ -1,6 +1,7 @@
 # bitaki-edu
 
 ![micro:bit gif image](/docs/images/bbc_micobit_gif_v2.gif)
+
 ---
 Εκπαιδευτικό υλικό για την πλακέτα ανοιχτής τεχνολογίας, BBC micro:bit
 

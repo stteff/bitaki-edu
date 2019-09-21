@@ -7,7 +7,7 @@
 
 ---
 
-Περιλαμβάνει Δραστηιότητες [zip](https://github.com/stteff/bitaki-edu/blob/master/docs/%CE%94%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82_%CF%83%CE%B5_%CE%BC%CE%BF%CF%81%CF%86%CE%AE_LibreOffice(odt).zip) [pdf] (https://github.com/stteff/bitaki-edu/tree/master/docs) *Physical Computing* στο περιβάλλον `makecode` της Microsoft, σε μορφή φύλλων εργασίας, καθώς και αντίστοιχα [προγράμματα](https://github.com/stteff/bitaki-edu/blob/master/makecode/%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%B1-%CE%94%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD_(makecode).zip).  
+Περιλαμβάνει Δραστηιότητες [zip](https://github.com/stteff/bitaki-edu/blob/master/docs/%CE%94%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82_%CF%83%CE%B5_%CE%BC%CE%BF%CF%81%CF%86%CE%AE_LibreOffice(odt).zip) [pdf](https://github.com/stteff/bitaki-edu/tree/master/docs) *Physical Computing* στο περιβάλλον `makecode` της Microsoft, σε μορφή φύλλων εργασίας, καθώς και αντίστοιχα [προγράμματα](https://github.com/stteff/bitaki-edu/blob/master/makecode/%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%B1-%CE%94%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD_(makecode).zip).  
 
 * LED DISPLAY & ΒΑΣΙΚΟΙ ΑΙΣΘΗΤΗΡΕΣ (button, acceleration)
 * LED DISPLAY & ΒΑΣΙΚΟΙ ΑΙΣΘΗΤΗΡΕΣ (compass, light level, rotation)

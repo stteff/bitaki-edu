@@ -40,7 +40,7 @@
   * https://microbit.hackster.io/
   * https://codeclubprojects.org/en-GB/resources/#microbit
 
-https://makecode.microbit.org/_dfyFzLDAc6t5
+<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_dfyFzLDAc6t5" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 ## Licence
 [![non Software License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.el)
